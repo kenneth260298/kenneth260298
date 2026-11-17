@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kenneth López Porras 👋</h1>
-<h3 align="center">Full Stack Software Engineer · AI Engineer</h3>
+<h3 align="center">Software Engineer · Java & .NET</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kennethlp"><img src="https://img.shields.io/badge/LinkedIn-kennethlp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,39 +10,48 @@
 
 ## About me
 
-I'm a **Full Stack Software Engineer and AI Engineer** with **6+ years** of experience building enterprise web applications and RESTful APIs for US and international clients.
+I'm a **Software Engineer** with **6+ years** of experience building enterprise web applications and RESTful APIs for US and international clients, in industries like **banking** and **education**.
 
-- 🧱 **Backend:** C# and .NET (ASP.NET Core, Entity Framework Core) on SQL Server, plus Node.js and Python
-- 🎨 **Frontend:** React, Vue.js, Angular and TypeScript
-- 🤖 **AI Engineering:** AI-assisted and agentic development with **Claude Code**, and bringing AI capabilities into real-world applications
-- 🏗️ **Architecture:** layered / clean architecture, SOLID, design patterns and API standards
-- 🎓 Former university instructor in databases and object-oriented programming at Universidad de Costa Rica
-- 🌎 Bilingual: English and Spanish
+- ☕ **Backend:** Java and Spring Boot, C# and .NET (ASP.NET Core, Entity Framework Core) with SQL Server, plus Node.js
+- 🎨 **Frontend:** Angular, React, Vue.js and TypeScript
+- 🏦 **Enterprise scale:** built features for a digital banking platform serving **100K+ users** with Java, Spring Boot and Angular, as part of a 100+ person program across Canada and the US
+- ⚡ **Performance and reliability:** cut long-running jobs from **32 to 8 minutes (75% faster)** and fix production issues through root-cause analysis
+- 🤝 **Client-facing:** daily stand-ups and sprint demos with US stakeholders, including on-site work with a client's team in the US
+- 🎓 **Teaching:** designed and taught the Java curriculum for Computer Science undergrads at Universidad de Costa Rica, plus web development and databases courses
+- 🌎 **Bilingual:** English and Spanish
 
 ## What I'm working on
 
-- Designing and maintaining **RESTful API services** in C# / ASP.NET Core backed by **SQL Server**
-- Using **Claude Code** for implementation, refactoring and debugging
-- Building **AI-powered features and workflows** with Python and .NET
+- Maintaining and evolving complex **C# / ASP.NET Core, SQL Server and React** applications as part of a 15-person client team
+- Sharpening my **system design** skills with **Java and Spring Boot**: event-driven architecture with Kafka, message queues, caching and resilience patterns
+- Using **Claude Code** daily for implementation, refactoring and debugging
+
+<!--
+NOTA: descomenta esta sección cuando tu proyecto de Spring Boot esté en GitHub.
+
+## Featured project
+
+- **[Project name](https://github.com/kenneth260298/REPO)**: event-driven platform built with Java, Spring Boot, Kafka, RabbitMQ, Redis and PostgreSQL, with load tests and documented design decisions.
+-->
 
 ## Tech stack
 
 **Languages and frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,nodejs,ts,js&theme=light" alt="C#, .NET, Python, Node.js, TypeScript, JavaScript">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,ts,js,py&theme=light" alt="Java, Spring, C#, .NET, Node.js, TypeScript, JavaScript, Python">
 </p>
 
 **Frontend and mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,flutter&theme=light" alt="React, Vue, Angular, Flutter">
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,html,css,flutter&theme=light" alt="Angular, React, Vue, HTML, CSS, Flutter">
 </p>
 
 **Data, cloud and tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,git,github&theme=light" alt="MySQL, MongoDB, Azure, Git, GitHub">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,azure,aws,docker,git,github&theme=light" alt="PostgreSQL, MySQL, MongoDB, Azure, AWS, Docker, Git, GitHub">
 </p>
 
 <p>
@@ -54,13 +63,13 @@ I'm a **Full Stack Software Engineer and AI Engineer** with **6+ years** of expe
 
 ## Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Software Engineer | JMD 365 | 2026 – Present |
-| University Instructor (Part-time) | Universidad de Costa Rica | 2025 – 2026 |
-| Software Engineer II | Konrad Group | 2024 – 2025 |
-| Software Engineer | Fresh Consulting | 2023 – 2024 |
-| Software Engineer | NearLinx | 2020 – 2023 |
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| Software Engineer | JMD 365 | 2026 – Present | C#, ASP.NET Core, SQL Server, React · jobs 32 → 8 min |
+| University Instructor (Part-time) | Universidad de Costa Rica | 2025 – 2026 | Java curriculum · OOP, web development, databases |
+| Software Engineer II | Konrad Group | 2024 – 2025 | Digital banking (Java, Spring Boot, Angular) · 100K+ users |
+| Software Engineer | Fresh Consulting | 2023 – 2024 | Led an education platform end to end (Node.js, Angular, SQL) |
+| Software Engineer | NearLinx | 2020 – 2023 | Full stack for US clients (Spring Boot, Node.js, Angular, Vue.js) |
 
 ## Education and certifications
 
